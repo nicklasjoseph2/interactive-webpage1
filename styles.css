@@ -15,11 +15,8 @@ button {
     cursor: pointer;
 }
 
-#imageContainer {
-    margin-top: 20px;
-}
-
 #myImage {
     display: none; /* hidden by default */
+    margin-top: 20px;
     width: 300px;
 }
